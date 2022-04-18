@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TourismandRoute</string>
+    <string name="title_activity_maps" translatable="false">MapsActivity</string>
+</resources>
